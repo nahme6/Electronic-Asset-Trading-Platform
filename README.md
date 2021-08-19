@@ -2,6 +2,8 @@
 
 This GitHub directory contains our group's submission for CAB302's major project (Semester 1, 2021). The setup instructions from our documentation are included below. These instructions have been confirmed to work on Windows devices, but have not been tested on other operating systems.
 
+Start by downloading the zip file and extracting all its content.
+
 ## Setup Instructions
 
 ### Client
